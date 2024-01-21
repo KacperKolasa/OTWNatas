@@ -5,6 +5,8 @@
 
 <p>Natas is one of the OverTheWire wargames, and it focuses on web application security. Players are presented with a series of levels, each containing a web application with security vulnerabilities. The goal of the game is to exploit these vulnerabilities to find flags or passwords hidden within each level, which you can use to progress to the next level.<p/>
 
+<p>You can access the OverTheWire Natas wargames by visiting their website here: https://overthewire.org/wargames/natas/</p>
+
 <p>This repository will document my journey of completing all the levels and creating a walk through for each one of them.</p>
 
 <h2>Languages and Utilities Used</h2>
@@ -12,3 +14,6 @@
 - <b>Python</b>
 - <b>PHP</b>
 - <b>Burp Suite</b>
+
+<h2>Level Walkthroughs</h2>
+- <b>Level 0</b>
