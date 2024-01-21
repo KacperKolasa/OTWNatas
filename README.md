@@ -17,4 +17,4 @@
 
 <h2>Level Walkthroughs</h2>
 
-- <b>[Level 0](natas0.md)</b>
+- <b>[Level 0](natas0/natas0.md)</b>
