@@ -16,4 +16,4 @@
 - <b>Burp Suite</b>
 
 <h2>Level Walkthroughs</h2>
-- <b>Level 0</b>
+- <b>[Level 0](natas0.md)</b>
