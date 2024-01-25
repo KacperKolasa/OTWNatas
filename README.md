@@ -13,7 +13,9 @@
 
 - <b>Python</b>
 - <b>PHP</b>
+- <b>HTTP</b>
 - <b>Burp Suite</b>
+- <b>Cyber Chef</b>
 
 <h2>Level Walkthroughs</h2>
 
